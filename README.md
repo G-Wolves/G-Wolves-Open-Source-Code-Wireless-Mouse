@@ -55,7 +55,8 @@ Projects：nrf_desktop
 Board Name鼠标对应nrf52840gmouse_nrf52840, 
 dongle对应nrf52840dongle_nrf52840，
 其它默认。
-非常重要：Extra CMake Build Option可参考上面链接，填写-DCMAKE_BUILD_TYPE=ZReleaseB0，这样才可切换到，可以使用在线更新固件的release版本。
+
+★非常重要：Extra CMake Build Option可参考上面链接，填写-DCMAKE_BUILD_TYPE=ZReleaseB0，这样才可切换到，可以使用在线更新固件的release版本。
 
 6）工程文件编译完后，在nrf_desktop下有对应的目录（如：build_nrf52840gmouse_nrf52840\zephyr），找到dfu_application.zip,覆盖对应dongle或mouse_dfu_release/configurator_cli下对应文件即可。
 
