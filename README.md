@@ -26,11 +26,11 @@ Very important: for extra cmake build option, please refer to the link above and
 6) After the project file is compiled, it is displayed in NRF_ There is a corresponding directory under the desktop (e.g. build_nrf52840gmouse_nrf52840\zephyr). Find dfu_application.zip, overwriting the corresponding dongle or mouse_dfu_release/configurator_cli the corresponding file under this folder.
 7) Firmware update tool using dongle_ dfu_release And mouse_ dfu_release Batch files in the directory of.
 
-Chinese：
+中文説明：
 G-Wolves開源固件無綫鼠標
+
 ★購買鏈接：https://g-wolves.cn/products/g-wolves-hati-s-open-source-wireless-mouse-58g-senseor-3370
 ★重要提示：在更新鼠标固件时务必要谨慎，否则可能导致鼠标无法使用，也無法恢復。请务必先对鼠标固件代码进行模拟测试，然后再执行固件更新。
-
 
 1、技术资料文档参考的链接：
 English:
